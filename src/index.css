@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+header {
+  background-color: #FBEBB5;
+}
+
+.section-one {
+  background-color: #FBEBB5;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.section-two {
+  background-color: #FAF4F4;
+  padding: 5rem 0rem;
+}
